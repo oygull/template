@@ -12,7 +12,9 @@
   display: flex;
   flex-flow: row wrap;
 }
-
+.reverse{
+  flex-direction: row-reverse;
+}
 .between {
   justify-content: space-between;
 }
